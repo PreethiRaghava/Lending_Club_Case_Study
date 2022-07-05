@@ -30,5 +30,5 @@ to evaulate his eligibility criteria. There are two types of risks involved if B
 
 ## Contributors
 
-- [VikasKumar Gupta](github.com/HackTheAI)
-- [Raghava Parisa](github.com/PreethiRaghava)
+- [VikasKumar Gupta](https://github.com/HackTheAI)
+- [Raghava Parisa](https://github.com/PreethiRaghava)
